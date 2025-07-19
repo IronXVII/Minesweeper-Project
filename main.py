@@ -7,7 +7,6 @@ map_size = 0
 # ROADMAP #1: Import necessary modules (random, os, sys, etc.)
 import random  # For random mine placement and random start
 import os      # For clearing the console
-import sys     # For system exit if needed
 
 
 # ROADMAP #2: Define constants for map size, number of mines, tile symbols, etc.
